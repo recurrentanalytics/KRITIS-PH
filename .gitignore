@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.Python
+
+# IDE
+.cursor/
+
+# Nested clone — keep as separate repo or use `git submodule add <url> PyPSA-PH`
+PyPSA-PH/
