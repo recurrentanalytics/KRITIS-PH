@@ -1,0 +1,9 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP242000,BOPHA,2000,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP242000,BOPHA,2000,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP242000,BOPHA,2000,2,3,0,0.0,0,0.0,0.0,0.0,1,0.007725883004836932
+WP242000,BOPHA,2000,3,4,0,0.0,0,0.0,0.0,0.0,1,0.01719124686959132
+WP242000,BOPHA,2000,4,5,0,0.0,0,0.0,0.0,0.0,1,0.08831930940555253
+WP242000,BOPHA,2000,5,6,0,0.0,0,0.0,0.0,0.0,1,0.08831930940555253
+WP242000,BOPHA,2000,6,7,0,0.0,0,0.0,0.0,0.0,1,0.08831930940555253
+WP242000,BOPHA,2000,7,8,0,0.0,0,0.0,0.0,0.0,1,0.08831930940555253

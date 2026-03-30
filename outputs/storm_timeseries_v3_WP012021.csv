@@ -1,0 +1,5 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP012021,DUJUAN,2021,0,1,0,0.0,0,0.0,0.0,0.0,1,0.002214073105314386
+WP012021,DUJUAN,2021,1,2,0,0.0,0,0.0,0.0,0.0,1,0.004429929669950298
+WP012021,DUJUAN,2021,2,3,0,0.0,0,0.0,0.0,0.0,1,0.004429929669950298
+WP012021,DUJUAN,2021,3,4,0,0.0,0,0.0,0.0,0.0,1,0.047547728447797095
