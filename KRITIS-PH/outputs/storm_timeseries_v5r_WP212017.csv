@@ -1,0 +1,11 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step
+WP212017,DOKSURI,2017,0,1,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP212017,DOKSURI,2017,1,2,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP212017,DOKSURI,2017,2,3,0,0.0,0,0.0,0.0,0.0,1,1,0,0.014040333323182672
+WP212017,DOKSURI,2017,3,4,0,0.0,0,0.0,0.0,0.0,1,1,0,0.030719310758958625
+WP212017,DOKSURI,2017,4,5,0,0.0,0,0.0,0.0,0.0,1,1,0,0.07581203569219477
+WP212017,DOKSURI,2017,5,6,0,0.0,0,0.0,0.0,0.0,1,1,0,0.17601263500941705
+WP212017,DOKSURI,2017,6,7,0,0.0,0,0.0,0.0,0.0,1,1,0,0.1761685722160133
+WP212017,DOKSURI,2017,7,8,0,0.0,0,0.0,0.0,0.0,1,1,0,0.1761685722160133
+WP212017,DOKSURI,2017,8,9,0,0.0,0,0.0,0.0,0.0,1,1,0,0.1761685722160133
+WP212017,DOKSURI,2017,9,10,0,0.0,0,0.0,0.0,0.0,1,1,0,0.1761685722160133

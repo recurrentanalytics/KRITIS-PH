@@ -1,0 +1,9 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step
+WP042014,UNNAMED,2014,0,1,0,0.0,0,0.0,0.0,0.0,1,1,0,0.014552594285227323
+WP042014,UNNAMED,2014,1,2,0,0.0,0,0.0,0.0,0.0,1,1,0,0.019237115028159335
+WP042014,UNNAMED,2014,2,3,0,0.0,0,0.0,0.0,0.0,1,1,0,0.02146998845605181
+WP042014,UNNAMED,2014,3,4,0,0.0,0,0.0,0.0,0.0,1,1,0,0.02465439868632137
+WP042014,UNNAMED,2014,4,5,0,0.0,0,0.0,0.0,0.0,1,1,0,0.04001297676776222
+WP042014,UNNAMED,2014,5,6,0,0.0,0,0.0,0.0,0.0,1,1,0,0.14153127302275104
+WP042014,UNNAMED,2014,6,7,0,0.0,0,0.0,0.0,0.0,1,1,0,0.14153127302275104
+WP042014,UNNAMED,2014,7,8,0,0.0,0,0.0,0.0,0.0,1,1,0,0.14153127302275104
