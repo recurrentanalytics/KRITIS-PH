@@ -1,0 +1,6 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_failed_lines_new,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step,mean_line_p_fail_this_step,max_line_p_fail_this_step
+WP032019,UNNAMED,2019,0,1,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.01902948000610739,5.045380744741412e-05,7.066642238308806e-05
+WP032019,UNNAMED,2019,1,2,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.04775651805659421,5.327593633290412e-05,0.0001185114244199698
+WP032019,UNNAMED,2019,2,3,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.11436475197222058,5.755873406192201e-05,0.00039295027060757176
+WP032019,UNNAMED,2019,3,4,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.11436475197222058,5.755873406192201e-05,0.00039295027060757176
+WP032019,UNNAMED,2019,4,5,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.11436475197222058,5.755873406192201e-05,0.00039295027060757176
