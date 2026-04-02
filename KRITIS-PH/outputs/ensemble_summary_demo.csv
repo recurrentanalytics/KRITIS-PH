@@ -1,0 +1,2 @@
+storm_id,n_runs,mean_peak_affected_population_proxy,std_peak_affected_population_proxy,p10_peak_affected_population_proxy,p50_peak_affected_population_proxy,p90_peak_affected_population_proxy,deterministic_peak_affected_population_proxy,stochastic_demo_peak_affected_population_proxy
+WP012001,100,480252.54928198515,1769944.423921111,0.0,0.0,67705.57858229027,0.0,0.0
